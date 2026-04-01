@@ -7,7 +7,6 @@
 - Phone: [+20 109 923 3654](tel:+201099233654)
 - LinkedIn: https://www.linkedin.com/in/mahmoudfaridnsr/
 - GitHub: https://github.com/MahmoudFaridNsr
-- CV: [Download PDF](./Mahmoud%20Farid%20CV.pdf)
 
 ## About
 
@@ -61,12 +60,6 @@ I enjoy building reliable delivery workflows: turning failures into repeatable t
 - English (C1)
 - Deutsch (A1)
 
-## Portfolio
-
-This repository includes a modern single-page portfolio:
-
-- Source: [index.html](./index.html)
-- Profile image: [profile.jpeg](./profile.jpeg)
 
 ## Contact
 
